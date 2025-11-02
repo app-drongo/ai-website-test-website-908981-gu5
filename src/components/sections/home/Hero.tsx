@@ -8,7 +8,7 @@ import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
   badge: 'Live Preview Available',
-  title: 'Experience your website before',
+  title: 'test your website before',
   titleHighlight: 'going live',
   description:
     'Test and preview your website design with real-time editing capabilities. Perfect for agencies, developers, and businesses who want to see results before launch.',
